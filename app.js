@@ -27,7 +27,7 @@ const fs = require("fs");
 
 const fetchCard = async (card_Id) => {
     try {
-        const data = await fs.promises.readFile("../Frontend/data.json", "utf8");
+        const data = await fs.promises.readFile("./data.json", "utf8");
         const jsonData = JSON.parse(data);
         console.log("from this function:", card_Id);
         const card = jsonData.cards.find(card => card.id === card_Id);

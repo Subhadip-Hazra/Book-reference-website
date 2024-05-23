@@ -2,371 +2,659 @@
     "cards": [
         {
             "id": "1",
-            "title": "Card 1",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THE WOMAN",
+            "writer": "Kristin Hannah",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHiIkuYnyA9CnOMkvgTYn_JGvYjWLxcElYlttGsx9bdi6C_4Eq",
+            "price": "800",
+            "ratings": 5,
+            "details": "A #1 bestseller on The New York Times, USA Today, Washington Post, and Los Angeles Times! From the celebrated"
         },
         {
             "id": "2",
-            "title": "Card 2",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "300",
-            "ratings": 5,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "HOUSE OF FLAME AND SHADOW",
+            "writer": "Sarah J.Maas",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa20mTa9N7wUzH3S344axQX8qYwi9YUT66SnSqD1M9smiSRuT7",
+            "price": "400",
+            "ratings": 4,
+            "details": "The stunning third book in the sexy, action-packed Crescent City series, following the global"
         },
         {
             "id": "3",
-            "title": "Card 3",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "400",
+            "title": "COME AND GET IT",
+            "writer": "John lennon",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV7XQHuInnHHuhOU2beaCRBia9OAHCdzn-gS2VOIK26FRojVZk",
+            "price": "840",
             "ratings": 3,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "NEW YORK TIMES BESTSELLERNational BestsellerUSA Today BestsellerA Good Morning America Book Club"
         },
         {
             "id": "4",
-            "title": "Card 4",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "500",
-            "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "iF ONLY I HAD TOLD HER",
+            "writer": "Laura Nowlin",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687783124i/60891867.jpg",
+            "price": "1000",
+            "ratings": 5,
+            "details": "Annie Bot is designed to be the perfect girlfriend for her owner, Doug, attending to all his emotional and physical needs."
         },
         {
             "id": "5",
-            "title": "Card 5",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
+            "title": "MEMOIR",
+            "writer": "The person themselves",
+            "imageUrl": "https://assets.vogue.com/photos/65a1844ac96a48f1983dc4e5/3:4/w_748%2Cc_limit/slide_11.jpg",
             "price": "600",
-            "ratings": 2,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "ratings": 5,
+            "details": "A new memoir by the beloved author, which full of stories he has never told before about his life, his sources of inspiration, "
         },
         {
             "id": "6",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing fhbbfbou iou, eos?"
+            "title": "THE WOUNDERING  STARS",
+            "writer": "Tommy orange",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3VRAVULLbButsexxHnh5gvtFu39Sa8JMCWXwynmLaYPS8AM9",
+            "price": "640",
+            "ratings": 3,
+            "details": "The eagerly awaited follow-up to Pulitzer Prize finalist Tommy Orange’s breakout best seller There"
         },
         {
             "id": "7",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 7,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THE FURY",
+            "writer": "Alex Michaelides",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZKMYJHinfOQCwiWUZC5xvTL1ODKdlRdoVHbApk4XMDxQNucVt",
+            "price": "400",
+            "ratings": 4,
+            "details": "Alex Jennings' impeccable accent keeps the already propulsive novel quite engaging, and moving like a steam train about to run you"
         },
         {
             "id": "8",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THE GREAT DEVIDE",
+            "writer": "Cristina Henriquez",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLdHpdgh75QklpSzXk8ySCSD_8rAuFFKotFPoez7TmfXIIcHz",
+            "price": "800",
+            "ratings": 4,
+            "details": "A TODAY Show Read With Jenna Book Club Pick! A powerful novel about the construction of the Panama Canal, casting light on the"
+        },
+        {
+            "id": "9",
+            "title": "EMILY HENRY",
+            "writer": "Cristina Henriquez",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6eCibhj01x7ktdbEe7KX5-ARDK_2ZgVwT_x9nc90fc6QipFr6",
+            "price": "800",
+            "ratings": 4,
+            "details": "Named a Most Anticipated book of 2024 by TIME∙The New York Times∙Goodreads∙Entertainment Weekly∙Today.com∙Paste∙SheReads.BookPage"
+        },
+        {
+            "id": "10",
+            "title": "FAMILIAR",
+            "writer": "Mark Z Danielewski",
+            "imageUrl": "https://images3.penguinrandomhouse.com/cover/9780593729397",
+            "price": "860",
+            "ratings": 4,
+            "details": "From the New York Times bestselling author of Ninth House, Hell Bent, and creator of the Grishaverse series comes a highly anticipated"
+        },
+        {
+            "id": "11",
+            "title": "THE BOOK OF DOORS",
+            "writer": "Mark Z Danielewski",
+            "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcR8950VzrZ3hjJ1prKZkPzwf2YAUP1_coJGAkS5RpXhKsMKv0ak",
+            "price": "2000",
+            "ratings": 5,
+            "details": "The Book of Doors by Gareth Brown. If you loved The Midnight Library or The Night Circus, add The Book of Doors to your 2024 TBR pile."
+        },
+        {
+            "id": "12",
+            "title": "MURDER ROAD",
+            "writer": "Simone St James",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691937111i/196614815.jpg",
+            "price": "1400",
+            "ratings": 5,
+            "details": "Murder Road. Want to Read. Murder Road by Simone St. James. Safety tip: When traveling, avoid any local route called Murder Road."
+        },
+        {
+            "id": "13",
+            "title": "RANDOM IN DEATH",
+            "writer": "Nora Roberts",
+            "imageUrl": "https://assets.vogue.com/photos/65a184922c849a74fa547131/3:4/w_748%2Cc_limit/slide_6.jpg",
+            "price": "1600",
+            "ratings": 4,
+            "details": "Random in Death. JD Robb's latest follows a murder where there's seemingly no motive. When a 16-year-old girl attends a crowded "
+        },
+        {
+            "id": "14",
+            "title": "KATE QUINN AND JANIE CHANG",
+            "writer": "Phoenix Crown",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlCfYjxbkzGd7KANNgUQClE1JGXxii_FBi4Z6FXcWcTSBDCBv9",
+            "price": "600",
+            "ratings": 4,
+            "details": "From bestselling authors Janie Chang and Kate Quinn, a thrilling and unforgettable narrative"
+        },
+        {
+            "id": "15",
+            "title": "UNTIL AUGUST",
+            "writer": "Gabriel Garcia Marquez",
+            "imageUrl": "https://cdn2.penguin.com.au/covers/original/9780241686355.jpg",
+            "price": "800",
+            "ratings": 5,
+            "details": "Until August is a novel by Colombian author Gabriel García Márquez published posthumously in March 2024"
+        },
+        {
+            "id": "16",
+            "title": "MAYOR OF MAXWELL STREET",
+            "writer": "Gabriel Garcia Marquez",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRNrLgMC5vSZkef7gjn0ebCvxOQXG-1hEowFPXgBo3oRxokiSz",
+            "price": "2400",
+            "ratings": 4,
+            "details": "A debut novel everyone will be talking about, Avery Cunningham's epic love story isa triumpha tale of intrigue,"
         }
     ],
     "bestAuthors": [
         {
             "id": "108001",
-            "title": "Card 1",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "PAULO COELHO",
+            "writer": "Brazilian",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG4DIZ8zeBMCj1s7gRvHEAliiPmGukocfFUr8wElGeM73oZ2SY",
+            "price": "1000",
+            "ratings": 5,
+            "details": "The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988."
         },
         {
             "id": "108002",
-            "title": "Card 2",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "300",
-            "ratings": 5,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THE ART OF HAPPINESS",
+            "writer": "Dalai lama",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiza9XjzU2IJiug4t392bp6EuQw-dMNE5mXreuwNdyzDHSE4M",
+            "price": "800",
+            "ratings": 4,
+            "details": "The Art of Happiness is a book by the 14th Dalai Lama and Howard Cutler, a psychiatrist"
         },
         {
             "id": "108003",
-            "title": "Card 3",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "400",
-            "ratings": 3,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "Sapiens",
+            "writer": "Yuval Noah Harari",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4E0vVn6DX552o0XnrlZ3CLgjl6MU7cLrxuZVzIEw1Bk63-4VV",
+            "price": "2000",
+            "ratings": 4,
+            "details": "Sapiens: A Brief History of Humankind is a book by Yuval Noah Harari, first published in Hebrew in Israel"
         },
         {
             "id": "108004",
-            "title": "Card 4",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
+            "title": "THE POWER OF NOW",
+            "writer": "Eckhart Tolle",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_HSDBfXhntpTRSVXDnED6UOnGn-zRdmwB9xJlnboh8THf9x03",
             "price": "500",
             "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "The Power of Now: A Guide to Spiritual Enlightenment is a book by Eckhart Tolle. It presents itself as"
         },
         {
             "id": "108005",
-            "title": "Card 5",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "600",
-            "ratings": 2,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "LIFE OF PI",
+            "writer": "Yann Martel",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS_pafFWoUZXoaQvYl6CEP9h51XJ4hsqK6DF66qc3wfs7ViMZq",
+            "price": "800",
+            "ratings": 4,
+            "details": "Life of Pi is a Canadian philosophical novel by Yann Martel published in 2001. The protagonist is Piscine Molitor"
         },
         {
             "id": "108006",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing fhbbfbou iou, eos?"
+            "title": "THE LITTLE PRINCE",
+            "writer": "Antoine de saint-exupery",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXrvaG6ok_VtuJr6iQNCMNrio5EkHOXy7SbdJsmMzBDhgALNfn",
+            "price": "1000",
+            "ratings": 5,
+            "details": "The Little Prince is a novella written and illustrated by French writer, and military pilot, Antoine de Saint-Exupéry"
         },
         {
             "id": "108007",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 7,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THE ATOMIC HABITS",
+            "writer": "James Clear",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT8nTAwMcM0IJlyvBV1ruhY7VwThVdJLq7BBtYMqrSFKbNNR4U",
+            "price": "2000",
+            "ratings": 5,
+            "details": "A supremely practical and useful book. James Clear distils the most fundamental information about habit formation,"
         },
         {
             "id": "108008",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "TO KILL A MOKING BIRD",
+            "writer": "Harper lee",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR819TtvIV0JJ5_Wzzfcnk3y2eXfPpamZmdbrg5ofv0Ydafpw_f",
+            "price": "1000",
+            "ratings": 4,
+            "details": "To Kill a Mockingbird is a novel by the American author Harper Lee. It was published in June 1960 and became instantly"
+        },
+        {
+            "id": "108008",
+            "title": "1984",
+            "writer": "George orwell",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeglXlBmm240qQ70HEi6CpdgjyevAGT78Vo8iOVtsLnkiDw5pb",
+            "price": "1000",
+            "ratings": 4,
+            "details": "Nineteen Eighty-Four is a dystopian novel and cautionary tale by English writer George Orwell"
+        },
+        {
+            "id": "108008",
+            "title": "TO KILL A MOKING BIRD",
+            "writer": "Gaur gopal das",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRz2iyx20nBY0f726Eu-cdXYfqSAZ7s8yPezQ-nW90K6PRSMtuc",
+            "price": "1200",
+            "ratings": 5,
+            "details": "Stop going through life, Start growing through life! While navigating their way through Mumbai's horrendous traffic, "
+        },
+        {
+            "id": "108008",
+            "title": "BELOVED",
+            "writer": "Toni morrison",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWNr8JJo6yKLjSlxsOMZkHICpInZmOWLSch2raLfLsHpEZXbQ-",
+            "price": "800",
+            "ratings": 4,
+            "details": "Beloved is a 1987 novel by American novelist Toni Morrison. Set in the period after the American Civil War,"
+        },
+        {
+            "id": "108008",
+            "title": "RICH DAD POOR DAD",
+            "writer": "Toni morrison",
+            "imageUrl": "https://m.media-amazon.com/images/I/81bsw6fnUiL.AC_UF894,1000_QL80.jpg",
+            "price": "800",
+            "ratings": 5,
+            "details": "Rich Dad Poor Dad is a 1997 book written by Robert T. Kiyosaki and Sharon Lechter.It advocates the importance of financial"
+        },
+        {
+            "id": "108008",
+            "title": "A NEW EARTH",
+            "writer": "Toni morrison",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6sNe76iR_J3WWFWGkbXkNHVkWUM4ynJxOCpFL1277eHYQEoUS",
+            "price": "1000",
+            "ratings": 5,
+            "details": "A New Earth: Awakening to Your Life's Purpose is a 2005 self-help book by Eckhart Tolle. The book sold 5 million copies."
+        },
+        {
+            "id": "108008",
+            "title": "A NEW EARTH",
+            "writer": "Toni morrison",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxH801PxAywQGwhYSZQNLcVkTh45_zsZ9Lv5f83Ek1AInyNf9m",
+            "price": "880",
+            "ratings": 5,
+            "details": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932"
+        },
+        {
+            "id": "108008",
+            "title": "SPEAK",
+            "writer": "Laurie Halse Anderson",
+            "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQE7GIApmGhS8aV43yzgy01HDd8I7orj2bcVir5FP34Am3b_vFC",
+            "price": "2000",
+            "ratings": 5,
+            "details": "Let Your Life Speak. This book by Parker Palmer is a great book about work and meaning. The ideas in the book"
+        },
+        {
+            "id": "108008",
+            "title": "THE GIVING TREE",
+            "writer": "Laurie Halse Anderson",
+            "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-04/26/21/asset/5f4960638cb4/sub-buzz-839-1651007683-4.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+            "price": "1200",
+            "ratings": 5,
+            "details": "The Giving Tree is the beautiful, poignant story of a tree who loved a little boy. The tree loves the boy and does anything she "
         }
     ],
     "motivation": [
         {
             "id": "109001",
-            "title": "Card 1",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
+            "title": "THINK AND GROW RICH",
+            "writer": "Napoleon Hill",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8t902mozZtNMVvdk7a3yyhtE1ToWBBpWoa4-w_9oYPu7ebi1k",
+            "price": "800",
             "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "Think and Grow Rich is a book written by Napoleon Hill and Rosa Lee Beeland released in 1937"
         },
         {
             "id": "109002",
-            "title": "Card 2",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "300",
+            "title": "THE POWER OF YOU SUBCONSCIOUS MIND",
+            "writer": "Joseph Murphy",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGl0YnHCgSSrSDXBMtVSXH-5t_cSDFvXj1Q8EV604tQHkUcJe4",
+            "price": "1000",
             "ratings": 5,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "A reprint of a book which appeals to those seeking self-development, peace of mind, love"
         },
         {
             "id": "109003",
-            "title": "Card 3",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
+            "title": "THE 7 HABITS",
+            "writer": "Stephen r.covey",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX2v6OWU0AJSBAUdaJUKMDoikeakJmS2bocwhipFZQxl0McJGe",
             "price": "400",
             "ratings": 3,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "The 7 Habits of Highly Effective People,first published in 1989,is a business and self-help "
         },
         {
             "id": "109004",
-            "title": "Card 4",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "500",
-            "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THE POWER OF HABIT",
+            "writer": "Charles Duhigg",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSMbIYH0XAplz9_yBjp0OEnJffIgW-ZtqXp5bN8Qos3oWzhi-r",
+            "price": "1200",
+            "ratings": 5,
+            "details": "The Power of Habit: Why We Do What We Do in Life and Business is a book by Charles Duhigg, a New York Times reporter"
         },
         {
             "id": "109005",
-            "title": "Card 5",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "600",
-            "ratings": 2,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THINK AND GROW RICH",
+            "writer": "Nepolian hill",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8t902mozZtNMVvdk7a3yyhtE1ToWBBpWoa4-w_9oYPu7ebi1k",
+            "price": "2000",
+            "ratings": 5,
+            "details": "Think and Grow Rich is a book written by Napoleon Hill and Rosa Lee Beeland released in 1937 and promoted as a personal"
         },
         {
             "id": "109006",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing fhbbfbou iou, eos?"
+            "title": "CAN'T HURT ME",
+            "writer": "David Goggins",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiY5qgluG_St-FPBIZGwMCQdl0FO-PwPXQDZH9DE4xq3_SmyBB",
+            "price": "800",
+            "ratings": 4,
+            "details": "For David Goggins, childhood was a nightmare - poverty, prejudice, and physical abuse colored his days and haunted his nights"
         },
         {
             "id": "109007",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 7,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "DO IT TODAY",
+            "writer": "Darius Foroux",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9llkPSB90x1WTg4E3OTc5u5K7eli9p-Kvj7fAyzwHB0w_3to7",
+            "price": "1240",
+            "ratings": 5,
+            "details": "Are you also tired of putting off your dreams until tomorrow? Guess what! Tomorrow never comes. Am I right?"
         },
         {
             "id": "109008",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "BELIEVE IN YOURSELF",
+            "writer": "Dr joseph murphy",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ncqv9e9qL.AC_UF894,1000_QL80.jpg",
+            "price": "2000",
+            "ratings": 5,
+            "details": "BOOKS BY DR. JOSEPH MURPHY The Amazing Laws of Cosmic Mind Power The Cosmic Energizer"
+        },
+        {
+            "id": "109008",
+            "title": "THE ONE THING",
+            "writer": "Gary W.keller",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyzE_Dky6DnmBsfqnJQzcR87CSfM-J0eVuho2PcH9MbOAZGCvJ",
+            "price": "600",
+            "ratings": 5,
+            "details": "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results is a non-fiction self-help book"
+        },
+        {
+            "id": "109008",
+            "title": "YOU CAN",
+            "writer": "George Matthew Adams",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNUG6I8IKGfQH2j4wV1Rpud6RLwNOIafUD-pn3f36A-bumbYt8",
+            "price": "800",
+            "ratings": 5,
+            "details": "Do you often wonder whether you really have it in you to accomplish your goals, to win over obstacles,and to"
+        },
+        {
+            "id": "109008",
+            "title": "THE SECRET",
+            "writer": "Rhonda Byrne",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHsQg6SPcUtiHWenggeN0rwMLPm191k0v1no1r3DPPggReuy2U",
+            "price": "1800",
+            "ratings": 5,
+            "details": "The Secret is a 2006 self-help book by Rhonda Byrne, based on the earlier film of the same name"
+        },
+        {
+            "id": "109008",
+            "title": "THE 5 SECOND RULE",
+            "writer": "Mel Robbins",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBQFhSvJ1U8d66QIGK18su-SR66k1KpWBfEpGxVSU11j840FHp",
+            "price": "1800",
+            "ratings": 5,
+            "details": "Throughout your life, you've had parents, coaches, teachers, friends, and mentors who have pushed you to be better"
         }
     ],
     "programming": [
         {
             "id": "118001",
-            "title": "Card 1",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
+            "title": "HEAD FIRST JAVA",
+            "writer": "Kathy Sierra",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVy-e1kG8UsygRmHjoxScusINAu2aErCgnHN4BAQaeVtKG4icm",
+            "price": "600",
             "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "Between Moore's law and the notion of Internet time, we're constantly being bombarded with more and more information"
         },
         {
             "id": "118002",
-            "title": "Card 2",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "300",
+            "title": "CORE JAVA",
+            "writer": "Gary Cornell",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVUV_wkEnEGmHm7cL5SqlMKqN3WT_qlQi31Vzt6Kg94Bgz_VPS",
+            "price": "800",
             "ratings": 5,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "New, revised, and updated for the 1.1 release of Java, the bestselling series introduces Core Java, The Signature Ed"
         },
         {
             "id": "118003",
-            "title": "Card 3",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "400",
-            "ratings": 3,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THINKING IN JAVA",
+            "writer": "Bruce Eckel",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Er0aj3OsEp4oNUOluXT9XAaFPvgEqa7THuJTk4lIcq5sjEn_",
+            "price": "840",
+            "ratings": 4,
+            "details": "Thinking in Java is a book about the Java programming language, written by Bruce Eckel and first published in 1998"
         },
         {
             "id": "118004",
-            "title": "Card 4",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "500",
+            "title": "MASTERING THE JAVA VIRTUAL MACHINE",
+            "writer": "Otavio Santana",
+            "imageUrl": "https://m.media-amazon.com/images/I/71remj2QT+L.AC_UF1000,1000_QL80_DpWeblab.jpg",
+            "price": "1240",
             "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "Delve into JVM inner workings and explore internals, memory management"
         },
         {
             "id": "118005",
-            "title": "Card 5",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "600",
-            "ratings": 2,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THE C++ PROGRAMMING LANGUAGE",
+            "writer": "Bjarne Stroustrup",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5GdtNqvJQXpBoHDUOq6Ee-D2sbUPm-WOdS5QhGraei5Vq831v",
+            "price": "3800",
+            "ratings": 4,
+            "details": "The new C++11 standard allows programmers to express ideas more clearly, simply, and directly, and to write faster"
         },
         {
             "id": "118006",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing fhbbfbou iou, eos?"
+            "title": "C++ Primer",
+            "writer": "Stanley B.Lippman",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN3kKavXx_wHnKQFv2Cu8PLdb3TsHtmnIwcOj6JnssTnTSuL2J",
+            "price": "2000",
+            "ratings": 5,
+            "details": "Bestselling Programming Tutorial and Reference Completely Rewritten for the New C++11 Standard Fully updated"
         },
         {
             "id": "118007",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 7,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "LET US C",
+            "writer": "Yashavant Kanetkar",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuJsaQONlPbcskZgYLT5zIb2JReokwfndBTxh6_-uJjJlWGERF",
+            "price": "1200",
+            "ratings": 5,
+            "details": "DESCRIPTIONæBest way to learn any programming language is to create good programs in it"
         },
         {
             "id": "118008",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THINKING IN C++",
+            "writer": "Bruce Eckel",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXRO4nBPklGJaZGwiHJty4Mi6jbvnEuq1ohRjS57BvM-waavsi",
+            "price": "2200",
+            "ratings": 4,
+            "details": "Best selling author Bruce Eckel has joined forces with Chuck Allison to write Thinking in C++"
+        },
+        {
+            "id": "118008",
+            "title": "HTML & CSS",
+            "writer": "John Duckett's",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEgGeJfSLwB7OKv2Qi8RXHurBOj3O7D-lT5yaUJEjZjaTfVg9g",
+            "price": "800",
+            "ratings": 5,
+            "details": "Jon Duckett’s best-selling, full color introduction to HTML and CSS—making complex topics simple, accessible"
+        },
+        {
+            "id": "118008",
+            "title": "LEARNING WEB DESIGN",
+            "writer": "Jennifer Niederst Robbins",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEgGeJfSLwB7OKv2Qi8RXHurBOj3O7D-lT5yaUJEjZjaTfVg9g",
+            "price": "1800",
+            "ratings": 4,
+            "details": "Learning Web Design by Jennifer Niederst Robbins. Summary: This book is an ideal starting point for newcomers to webdesign"
+        },
+        {
+            "id": "118008",
+            "title": "MODERN WEB DEVELOPMENT WITH DENO",
+            "writer": "Mayur Borse",
+            "imageUrl": "https://bpbonline.com/cdn/shop/products/486_Front_600x.jpg?v=1665122996",
+            "price": "1800",
+            "ratings": 5,
+            "details": "This is a guide that anyone could use to learn about the practice of front-end development"
+        },
+        {
+            "id": "118008",
+            "title": "REACT UP & RUNNING",
+            "writer": "Stoyan Stefanov",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQICLeOti2HX-DskRjHyfzVlZvN4xOA0wcpU93qZm7Yy37zTz6J",
+            "price": "1240",
+            "ratings": 4,
+            "details": "Hit the ground running with React, the open source technology from Facebook for building rich web applications fast."
+        },
+        {
+            "id": "118008",
+            "title": " MASTERING MONGODB",
+            "writer": "Malak Abu Hammad",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQICLeOti2HX-DskRjHyfzVlZvN4xOA0wcpU93qZm7Yy37zTz6J",
+            "price": "2000",
+            "ratings": 5,
+            "details": "The latest version of MongoDB is 7.0, which was released in 2023, and the next version, 8.0, is a preview for 2024."
+        },
+        {
+            "id": "118008",
+            "title": " BEGINNING NODE.JS",
+            "writer": "Basarat Ali Syed",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfy0u6R2GX1UMuAmY1ztTgNAdxNocWeS8nOESrV7cVYMmrIUqH",
+            "price": "2400",
+            "ratings": 5,
+            "details": "Beginning Node.js is your step-by-step guide to learning all the aspects of creating maintainable Node.js applications."
+        },
+        {
+            "id": "118008",
+            "title": " INTRODUCTION TO DBMS",
+            "writer": "Dr Hariram Chavan",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1t3vXc8EaYqgfkwlLQ9uKTZ6Qfi2Q75NhQTTb8TBOxeYFQy0Y",
+            "price": "840",
+            "ratings": 5,
+            "details": "Database and I: A unified view of the DatabaseKey FeaturesExplains database fundamentals by using examples from the actual world."
+        },
+        {
+            "id": "118008",
+            "title": " FUNDAMENTAL OF DBMS",
+            "writer": "Dr Hariram Chavan",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ94Ym07htLK9nDFAuKp3snTonQZMJVonmeicwE1xELhx9b1XGO",
+            "price": "1200",
+            "ratings": 4,
+            "details": "Designed to provide an insight into the database conceptsKey features Book contains real-time executed commands"
         }
     ],
     "recipes": [
         {
             "id": "208001",
-            "title": "Card 1",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "660 CURRIES",
+            "writer": "Raghavan Lyer",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5xkYpW44Lo74XM8WKSWwdhFl4LOSSW_0IpEBfX2uuBOBU_-ZN",
+            "price": "1240",
+            "ratings": 5,
+            "details": "Curry is Salmon with Garlic and Turmeric. Curry is Grilled Chicken with Cashew-Tomato Sauce"
         },
         {
             "id": "208002",
-            "title": "Card 2",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "300",
-            "ratings": 5,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "RASIKA",
+            "writer": "Vikram Sunderam",
+            "imageUrl": "https://m.media-amazon.com/images/I/51gAMUyZ8eL.SR290,290.jpg",
+            "price": "1800",
+            "ratings": 4,
+            "details": "Fresh India. A meat-free follow-up to the bestselling Made in India"
         },
         {
             "id": "208003",
-            "title": "Card 3",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "400",
-            "ratings": 3,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THE LUCKNOW COOKBOOK",
+            "writer": "Chand sur & Sunita Kohli",
+            "imageUrl": "https://assets.vogue.in/photos/5e5364916dd25800087efa0e/master/w_1600%2Cc_limit/71WjW2EoTLL.jpg",
+            "price": "800",
+            "ratings": 4,
+            "details": "Whether you're craving the warmth of butter chicken or the comfort of dal makhan"
         },
         {
             "id": "208004",
-            "title": "Card 4",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "500",
+            "title": "THE CHUTNEY LIFE",
+            "writer": "Palak Patel",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqblBeSfBS28lhEXvZchVG0JsfFUoqjivz8qtTVyUS2PrIhs_g",
+            "price": "840",
             "ratings": 4,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "From Palak Patel, the founder of the hugely popular lifestyle brand and blog"
         },
         {
             "id": "208005",
-            "title": "Card 5",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "600",
-            "ratings": 2,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "TANDOORI HOME COOKING",
+            "writer": "Maunika Gowardhan",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ruu2GstWL.SL500.jpg",
+            "price": "2000",
+            "ratings": 5,
+            "details": "In Tandoori Home Cooking, Maunika Gowardhan, bestselling author of Thali, takes you on a tour to share"
         },
         {
             "id": "208006",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing fhbbfbou iou, eos?"
+            "title": "MY BOMBAY KITCHEN",
+            "writer": "Alice Waters",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQeLb6vK70UdlBYUYP4fyhHp7rCiwf1RzqFGLiZkv22T1W8gis",
+            "price": "1240",
+            "ratings": 4,
+            "details": "The Persians of antiquity were renowned for their lavish cuisine and their never-ceasing fascination"
         },
         {
             "id": "208007",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
+            "title": "CLASSIC INDIAN COOKING",
+            "writer": "Meera Sodha",
+            "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2020/10/Made-in-India.jpg?fit=700%2C700",
+            "price": "3800",
             "ratings": 7,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "details": "Classic Indian Cooking by Julie Sahni: Julie Sahni's Classic Indian Cooking is a timeless masterpiece"
         },
         {
             "id": "208008",
-            "title": "Card 6",
-            "writer": "subhadip Hazra",
-            "imageUrl": "https://conandoyleestate.com/images/news/Cover_(Hound_of_Baskervilles,_1902)-07112019164557.jpg",
-            "price": "200",
-            "ratings": 6,
-            "details": "Lorem ipsum dolor sit amet consr adipisicing elit. Libero, eos?"
+            "title": "THE SECRET OF COOKING",
+            "writer": "Bee Wilson",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtRDAz3YEktPrYJqTs9WKztzEVNMmh7A-V3uZzWfVLkflQq5hm",
+            "price": "1200",
+            "ratings": 5,
+            "details": "A TIMES and GUARDIAN BOOK OF THE YEAR 2023 ‘A genuinely game-changing cook book’ Nigella Lawson"
+        },
+        {
+            "id": "208008",
+            "title": "WHAT'S FOR DESSERT",
+            "writer": "Bee Wilson",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI06QHqSAJ21swGAMfT2jA64Kr4rXDDz_kWrP2r0JwJCVBzDj3",
+            "price": "1200",
+            "ratings": 5,
+            "details": "A love letter to dessert by the New York Times bestselling author of Dessert Person"
+        },
+        {
+            "id": "208008",
+            "title": "SKINNY TASTE SIMPLE",
+            "writer": "Bee Wilson",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrGYUwuNqU5F0wrQYxNLHG46RLrUbsskg3usC-9PlWx4vWkVOI",
+            "price": "2200",
+            "ratings": 5,
+            "details": "NEW YORK TIMES BESTSELLER • A delectable collection of 120 healthy dishes that use seven ingredients"
+        },
+        {
+            "id": "208008",
+            "title": "JOY OF COOKING",
+            "writer": "John Bccker",
+            "imageUrl": "https://assets.vogue.com/photos/652437d3d5f13f5cb4b5ea3b/3:4/w_748%2Cc_limit/slide_5.jpg",
+            "price": "840",
+            "ratings": 4,
+            "details": "Find joy in cooking with Dan Pelosi's Let's Eat and find joy in nutritional balance"
+        },
+        {
+            "id": "208008",
+            "title": "THE FOOD LAB",
+            "writer": "J.Kenji Lopez-Alt",
+            "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvbF6ymZWfgJd_FNaj0jJ9P9UxKevqWO1f_dpjYNKO5X3dhJLc",
+            "price": "3800",
+            "ratings": 4,
+            "details": "The Food Lab: Better Home Cooking Through Science is a 2015 cookbook written by American chef"
         }
     ]
 }
